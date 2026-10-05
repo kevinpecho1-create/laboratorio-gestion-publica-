@@ -1,0 +1,181 @@
+{
+  "version": 1,
+  "aviso": "Cada caso parte de un informe real publicado por la Contraloría. Los hechos, montos, fechas y documentos vienen del informe indicado. Las preguntas y opciones son ejercicios armados por la app. Los números de artículo se muestran tal como los cita el informe: confírmalos en el texto oficial antes de estudiarlos.",
+  "casos": [
+    {
+      "id": "mp-santa-2024-034",
+      "titulo": "Liquidación de obra con penalidades sin cobrar y defectos sin reparar",
+      "entidad": "Municipalidad",
+      "entidadNombre": "Municipalidad Provincial del Santa (Áncash)",
+      "modulo": "Contrataciones públicas",
+      "nivel": "avanzado",
+      "regimen": "Régimen anterior: TUO de la Ley 30225 y su Reglamento. Hoy rige la Ley 32069; verifica la norma equivalente.",
+      "hechos": [
+        "La obra fue la intervención en el local escolar 1540, en el P.J. San Juan, Chimbote.",
+        "Al liquidar el contrato, la entidad aplicó una penalidad por mora de S/ 416,871.15.",
+        "Según la comisión de control, faltaba aplicar S/ 74,937.90 por otros incumplimientos: especificaciones técnicas, metrados no ejecutados e inasistencia de personal.",
+        "Un acta de observaciones del 4 de julio de 2023 ya advertía defectos de acabados. La recepción fue el 10 de agosto de 2023.",
+        "En la inspección física del 30 de abril de 2024, los defectos seguían sin reparar."
+      ],
+      "documentos": [
+        "Resolución Gerencial n.º 152-2024-GM-MPS (aprobación de la liquidación)",
+        "Acta de observaciones (4 de julio de 2023)",
+        "Acta de recepción (10 de agosto de 2023)",
+        "Acta de inspección física n.º 002-2024-OCI-MPS/SAN JUAN",
+        "Contrato n.º 079-2021-GM-MPS"
+      ],
+      "normas": [
+        "TUO de la Ley 30225, art. 161 y art. 40 (penalidades y responsabilidad del contratista por vicios ocultos), según el informe",
+        "Contrato n.º 079-2021-GM-MPS, cláusula décimo tercera (penalidades)"
+      ],
+      "preguntas": [
+        {
+          "texto": "Según la comisión de control, ¿qué monto de penalidades adicionales faltaba aplicar en la liquidación?",
+          "opciones": ["S/ 74,937.90", "S/ 416,871.15", "S/ 491,809.05", "S/ 7,493.79"],
+          "correcta": 0,
+          "explicacion": "Los S/ 416,871.15 ya se habían aplicado por mora. Lo que faltaba eran S/ 74,937.90 por otros incumplimientos. Sumados dan S/ 491,809.05."
+        },
+        {
+          "texto": "¿Qué documento del expediente prueba que los defectos ya estaban advertidos antes de la recepción de la obra?",
+          "opciones": [
+            "Resolución Gerencial n.º 152-2024-GM-MPS",
+            "Acta de observaciones del 4 de julio de 2023",
+            "Acta de inspección física del OCI de 2024",
+            "Contrato n.º 079-2021-GM-MPS"
+          ],
+          "correcta": 1,
+          "explicacion": "El acta del 4 de julio de 2023 es anterior a la recepción del 10 de agosto de 2023. La inspección del OCI de 2024 solo confirmó que los defectos seguían sin reparar."
+        },
+        {
+          "texto": "El informe pide comunicar al OCI las medidas adoptadas. ¿En cuántos días hábiles?",
+          "opciones": ["2 días hábiles", "5 días hábiles", "10 días hábiles", "15 días hábiles"],
+          "correcta": 1,
+          "explicacion": "La recomendación fija 5 días hábiles, con documentación de sustento."
+        }
+      ],
+      "fuente": {
+        "informe": "Informe de Control Concurrente n.º 034-2024-OCI/0344-SCC",
+        "entidad": "OCI de la Municipalidad Provincial del Santa, Contraloría General de la República",
+        "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2024CSI034400033&TIPOARCHIVO=ADJUNTO"
+      }
+    },
+    {
+      "id": "mp-talara-2024-009",
+      "titulo": "Obra con consultas sin responder y juntas de mortero fuera de norma",
+      "entidad": "Municipalidad",
+      "entidadNombre": "Municipalidad Provincial de Talara (Piura)",
+      "modulo": "Contrataciones públicas",
+      "nivel": "intermedio",
+      "regimen": "Régimen anterior: Reglamento de la Ley de Contrataciones aprobado por DS 344-2018-EF. Hoy rige el Reglamento de la Ley 32069 (DS 009-2025-EF); verifica el plazo equivalente.",
+      "hechos": [
+        "La obra era un complejo deportivo-recreacional entre los parques 43, 45 y 47, distrito de Pariñas.",
+        "Entre marzo y mayo de 2024, el contratista presentó cuatro grupos de consultas (grupos 4 a 7) por incompatibilidades de planos y deficiencias del expediente técnico.",
+        "La supervisión las trasladó a la entidad dentro del plazo. La entidad no respondió en los términos establecidos.",
+        "En la inspección del 15 de mayo de 2024 se midieron juntas de mortero de 30 a 40 mm, cuando el máximo es 15 mm.",
+        "También faltaba señalización de seguridad, orden y limpieza en la obra."
+      ],
+      "documentos": [
+        "Cartas de supervisión del 19 de abril, 29 de abril, 7 de mayo y 14 de mayo de 2024",
+        "Acta de Inspección Física n.º 01-2024-CG/OCI/-0456-CEAF, con registro fotográfico"
+      ],
+      "normas": [
+        "DS 344-2018-EF, art. 193.3 (plazo para absolver consultas), según el informe",
+        "Reglamento Nacional de Edificaciones, norma E.070 (juntas de mortero) y G.050 (seguridad en obra), según el informe"
+      ],
+      "preguntas": [
+        {
+          "texto": "¿Qué espesor de junta de mortero se midió en la inspección y cuál es el máximo según el informe?",
+          "opciones": [
+            "Se midió 30 a 40 mm; el máximo es 15 mm",
+            "Se midió 15 mm; el máximo es 30 a 40 mm",
+            "Se midió 10 mm; el máximo es 15 mm",
+            "Se midió 40 mm; el máximo es 25 mm"
+          ],
+          "correcta": 0,
+          "explicacion": "Las juntas medían entre 30 y 40 mm y el máximo permitido es 15 mm, así que superaban el límite por más del doble."
+        },
+        {
+          "texto": "¿Qué riesgo advierte el informe por no absolver a tiempo las consultas del contratista?",
+          "opciones": [
+            "Pérdida de la garantía de fiel cumplimiento",
+            "Atrasos en la ejecución y posible afectación económica",
+            "Nulidad automática del contrato",
+            "Cambio de supervisor de obra"
+          ],
+          "correcta": 1,
+          "explicacion": "El informe señala atrasos en la ejecución, incumplimiento de plazos y posible afectación económica de los recursos de la municipalidad."
+        },
+        {
+          "texto": "Según la norma que cita el informe, ¿cuál es el plazo máximo de la entidad para absolver las consultas?",
+          "opciones": ["5 días", "10 días", "15 días", "30 días"],
+          "correcta": 2,
+          "explicacion": "El informe cita un plazo máximo de 15 días en el reglamento del régimen anterior. Con la Ley 32069 debes revisar el plazo en su reglamento antes de aplicarlo."
+        }
+      ],
+      "fuente": {
+        "informe": "Informe de Hito de Control n.º 009-2024-OCI/0456-SVC",
+        "entidad": "OCI de la Municipalidad Provincial de Talara, Contraloría General de la República",
+        "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2024CSI045600009&TIPOARCHIVO=ADJUNTO"
+      }
+    },
+    {
+      "id": "mp-huaraz-2023-069",
+      "titulo": "Designaciones y contratos de jefaturas sin concurso ni verificación",
+      "entidad": "Municipalidad",
+      "entidadNombre": "Municipalidad Provincial de Huaraz (Áncash)",
+      "modulo": "Control gubernamental",
+      "nivel": "intermedio",
+      "regimen": "Normas de personal y servicio civil citadas por el informe (2023). Confirma su vigencia actual.",
+      "hechos": [
+        "El informe cubre del 2 de enero al 15 de octubre de 2023.",
+        "El ROF vigente databa de 2014, y no había CAP, MCC ni PAP actualizados.",
+        "17 subgerentes bajo régimen CAS y 4 jefes de oficina contratados por locación de servicios fueron designados sin concurso.",
+        "Los 4 jefes por locación ocupaban el Centro Cultural, la Unidad Formuladora, Gestión de Riesgos e Imagen Institucional, con labores permanentes y subordinadas.",
+        "No se consultó la Plataforma de Debida Diligencia del Sector Público en todos los casos."
+      ],
+      "documentos": [
+        "Resoluciones de Alcaldía y de Gerencia del período 2023",
+        "Legajos de personal de los 17 subgerentes CAS"
+      ],
+      "normas": [
+        "Ley 28175, arts. 4 y 5, y Decreto Legislativo 1057, art. 8, según el informe",
+        "Código Civil, art. 1764, y DS 053-2022-PCM, según el informe"
+      ],
+      "preguntas": [
+        {
+          "texto": "¿Cuántos subgerentes bajo régimen CAS fueron designados sin concurso?",
+          "opciones": ["4", "9", "17", "21"],
+          "correcta": 2,
+          "explicacion": "Fueron 17 subgerentes CAS. Los 4 restantes eran jefes de oficina contratados por locación de servicios."
+        },
+        {
+          "texto": "¿Por qué la locación de servicios no era la figura adecuada para los jefes de oficina?",
+          "opciones": [
+            "Porque el monto superaba el límite permitido",
+            "Porque las labores eran permanentes y subordinadas, y la locación requiere autonomía",
+            "Porque no tenían título profesional",
+            "Porque la locación solo se usa en obras"
+          ],
+          "correcta": 1,
+          "explicacion": "La locación supone un servicio autónomo. Aquí los jefes cumplían labores permanentes bajo subordinación, lo que desnaturaliza el contrato."
+        },
+        {
+          "texto": "¿Qué verificación faltó en todos los casos antes de contratar o designar?",
+          "opciones": [
+            "Consulta a la Plataforma de Debida Diligencia del Sector Público",
+            "Certificación de crédito presupuestario",
+            "Registro en el SEACE",
+            "Conformidad de recepción"
+          ],
+          "correcta": 0,
+          "explicacion": "El informe indica que no se consultó la Plataforma de Debida Diligencia, donde se revisan sanciones y deudas, entre otros impedimentos."
+        }
+      ],
+      "fuente": {
+        "informe": "Informe de Visita de Control n.º 069-2023-OCI/MPH/0337-SVC",
+        "entidad": "OCI de la Municipalidad Provincial de Huaraz, Contraloría General de la República",
+        "url": "https://apps8.contraloria.gob.pe/SPIC/srvDownload/ViewPDF?CRES_CODIGO=2023CSI033700076&TIPOARCHIVO=ADJUNTO"
+      }
+    }
+  ]
+}

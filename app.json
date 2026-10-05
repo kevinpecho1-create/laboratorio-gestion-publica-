@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "modos": [
+    { "id": "aprender", "nombre": "Aprender", "detalle": "Explicación paso a paso de cada tema." },
+    { "id": "practicar", "nombre": "Practicar", "detalle": "Ejercicios con pistas para resolver con apoyo." },
+    { "id": "simulacion", "nombre": "Simulación laboral", "detalle": "Casos completos sin pistas o con ayuda mínima." }
+  ],
+  "ciclo": ["Certificación", "Compromiso", "Devengado", "Girado", "Pagado"],
+  "modulos": [
+    {
+      "id": "siaf",
+      "nombre": "SIAF-SP",
+      "resumen": "Presupuesto, ciclo del gasto y operaciones de ingreso.",
+      "temas": [
+        "Conceptos fundamentales",
+        "Módulo administrativo",
+        "Presupuesto",
+        "Certificación",
+        "Compromiso",
+        "Devengado",
+        "Girado",
+        "Pagado",
+        "Operaciones de ingreso",
+        "Casos prácticos",
+        "Simulación de operaciones"
+      ]
+    },
+    {
+      "id": "siga",
+      "nombre": "SIGA-MEF",
+      "resumen": "Logística, almacén, patrimonio y tesorería.",
+      "temas": [
+        "Logística",
+        "Programación",
+        "Pedidos",
+        "Compras",
+        "Almacén",
+        "Patrimonio",
+        "Tesorería",
+        "Configuración",
+        "Casos prácticos",
+        "Simulación de operaciones"
+      ]
+    },
+    {
+      "id": "seace",
+      "nombre": "SEACE",
+      "resumen": "Contrataciones del Estado, de la preparación al contrato.",
+      "temas": [
+        "Planificación y actuaciones relacionadas con contrataciones",
+        "Actuaciones preparatorias",
+        "Procedimientos de selección",
+        "Registro de información",
+        "Contratos",
+        "Casos prácticos",
+        "Simulación de operaciones"
+      ]
+    }
+  ],
+  "otrosModulos": [
+    "Presupuesto Público",
+    "Tesorería",
+    "Contabilidad Gubernamental",
+    "NICSP",
+    "Administración Financiera del Sector Público",
+    "Abastecimiento",
+    "Gestión de Bienes y Patrimonio",
+    "Contrataciones Públicas",
+    "Control Gubernamental",
+    "Auditoría"
+  ],
+  "entidades": [
+    "UGEL",
+    "Municipalidad",
+    "Ministerio",
+    "Gobierno Regional",
+    "Hospital",
+    "Universidad pública",
+    "Organismo público",
+    "Unidad ejecutora",
+    "Institución educativa",
+    "Otras entidades del Estado"
+  ],
+  "niveles": [
+    { "id": "basico", "nombre": "Básico", "detalle": "Aprender conceptos y procedimientos.", "tono": 1 },
+    { "id": "intermedio", "nombre": "Intermedio", "detalle": "Realizar operaciones y tomar decisiones.", "tono": 2 },
+    { "id": "avanzado", "nombre": "Avanzado", "detalle": "Resolver expedientes.", "tono": 3 },
+    { "id": "experto", "nombre": "Experto", "detalle": "Detectar errores e inconsistencias.", "tono": 4 },
+    { "id": "simulacion", "nombre": "Simulación laboral", "detalle": "Resolver un caso completo sin que la aplicación diga qué hacer.", "tono": 5 }
+  ],
+  "secciones": {
+    "aprender": {
+      "titulo": "Aprender",
+      "paso": "Pasos 4 a 6",
+      "texto": "Aquí estarán las lecciones de cada módulo, empezando por SIAF-SP, luego SIGA-MEF y SEACE."
+    },
+    "simular": {
+      "titulo": "Simuladores",
+      "paso": "Paso 9",
+      "texto": "Practicarás entrando a los menús, completando datos y tomando decisiones como en el trabajo.",
+      "items": [
+        { "nombre": "Simulador SIAF", "detalle": "Operaciones del ciclo del gasto." },
+        { "nombre": "Simulador SIGA", "detalle": "Logística, almacén, patrimonio, pedidos y consultas." },
+        { "nombre": "Simulador SEACE", "detalle": "Registro de información y contratos." },
+        { "nombre": "Simulador integral", "detalle": "Desde la necesidad hasta el patrimonio, de punta a punta." }
+      ]
+    },
+    "casos": {
+      "titulo": "Casos por entidad",
+      "paso": "Paso 7",
+      "texto": "Cada caso representa una entidad distinta, para ver qué cambia y qué se mantiene según el proceso."
+    },
+    "progreso": {
+      "titulo": "Mi progreso",
+      "paso": "Paso 10",
+      "texto": "Registrará puntaje, casos completados, errores, temas débiles, nivel y tiempo empleado."
+    },
+    "normativa": {
+      "titulo": "Normativa",
+      "paso": "Paso 8",
+      "texto": "Cada caso indicará su fundamento normativo: norma, artículo, manual o directiva y por qué se aplica.",
+      "items": [
+        { "nombre": "Leyes" },
+        { "nombre": "Decretos Legislativos" },
+        { "nombre": "Reglamentos" },
+        { "nombre": "Directivas" },
+        { "nombre": "Resoluciones" },
+        { "nombre": "Manuales" },
+        { "nombre": "Documentación oficial MEF" },
+        { "nombre": "Documentación oficial OECE" },
+        { "nombre": "Contraloría" },
+        { "nombre": "Otras entidades rectoras" }
+      ]
+    },
+    "examenes": {
+      "titulo": "Exámenes",
+      "paso": "Por definir",
+      "texto": "Evaluaciones para medir en qué punto estás. Su paso todavía no está fijado en el plan.",
+      "items": []
+    }
+  }
+}

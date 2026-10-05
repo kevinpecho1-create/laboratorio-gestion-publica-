@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "aviso": "La etiqueta indica cuánto se ha comprobado cada norma. Antes de usar un artículo en un caso, ábrelo en la fuente oficial (El Peruano, MEF, OECE, SBN o Contraloría).",
+  "verificacion": {
+    "oficial": "Comprobada en un sitio oficial",
+    "secundaria": "Confirmada solo en fuentes secundarias",
+    "pendiente": "Aún sin comprobar"
+  },
+  "normas": [
+    {
+      "id": "ley-32069",
+      "nombre": "Ley 32069, Ley General de Contrataciones Públicas",
+      "materia": "Contrataciones públicas",
+      "verificacion": "secundaria",
+      "nota": "Aparece como vigente en 2026 en varias fuentes jurídicas.",
+      "url": "https://lpderecho.pe/ley-general-de-contrataciones-publicas-actualizada/"
+    },
+    {
+      "id": "ds-009-2025-ef",
+      "nombre": "Reglamento de la Ley 32069 (DS 009-2025-EF), modificado por el DS 001-2026-EF",
+      "materia": "Contrataciones públicas",
+      "verificacion": "secundaria",
+      "nota": "Confirma la modificación de enero de 2026. Revisa el texto integrado oficial.",
+      "url": "https://lpderecho.pe/reglamento-de-la-ley-32069-ley-general-de-contrataciones-publicas/"
+    },
+    {
+      "id": "tuo-30225",
+      "nombre": "TUO de la Ley 30225 y Reglamento (DS 344-2018-EF)",
+      "materia": "Contrataciones públicas",
+      "verificacion": "pendiente",
+      "nota": "Régimen anterior. Lo citan los informes de control de 2023 y 2024 usados en los casos. Confirma cuándo sigue aplicándose por transición."
+    },
+    {
+      "id": "dl-1436",
+      "nombre": "Decreto Legislativo 1436, Marco de la Administración Financiera del Sector Público",
+      "materia": "Administración financiera",
+      "verificacion": "oficial",
+      "nota": "Texto publicado en el sitio del MEF.",
+      "url": "https://www.mef.gob.pe/es/normatividad-sp-18542/por-instrumento/decretos-legislativos/18191-decreto-legislativo-n-1436-1/file"
+    },
+    {
+      "id": "dl-1440",
+      "nombre": "Decreto Legislativo 1440, Sistema Nacional de Presupuesto Público",
+      "materia": "Presupuesto",
+      "verificacion": "oficial",
+      "nota": "Ficha de la norma en la plataforma del Estado, página del MEF.",
+      "url": "https://www.gob.pe/institucion/mef/normas-legales/201360-1440"
+    },
+    {
+      "id": "dl-1441",
+      "nombre": "Decreto Legislativo 1441, Sistema Nacional de Tesorería",
+      "materia": "Tesorería",
+      "verificacion": "pendiente",
+      "nota": "Falta ubicar el texto vigente en fuente oficial."
+    },
+    {
+      "id": "dl-1438",
+      "nombre": "Decreto Legislativo 1438, Sistema Nacional de Contabilidad",
+      "materia": "Contabilidad gubernamental",
+      "verificacion": "pendiente",
+      "nota": "Falta ubicar el texto vigente en fuente oficial."
+    },
+    {
+      "id": "dl-1439",
+      "nombre": "Decreto Legislativo 1439, Sistema Nacional de Abastecimiento",
+      "materia": "Abastecimiento",
+      "verificacion": "pendiente",
+      "nota": "Falta ubicar el texto vigente en fuente oficial."
+    },
+    {
+      "id": "ds-008-2021-vivienda",
+      "nombre": "Reglamento de la Ley 29151 de Bienes Estatales (DS 008-2021-VIVIENDA)",
+      "materia": "Patrimonio",
+      "verificacion": "oficial",
+      "nota": "Texto publicado en el sitio de la SBN. Revisa las directivas de la SBN sobre bienes muebles.",
+      "url": "https://www.sbn.gob.pe/Marco_legal/DS-N-008-2021-VIVIENDA.pdf"
+    },
+    {
+      "id": "ley-27785",
+      "nombre": "Ley 27785, Ley Orgánica del Sistema Nacional de Control y de la Contraloría General de la República",
+      "materia": "Control gubernamental",
+      "verificacion": "pendiente",
+      "nota": "Falta ubicar el texto vigente en fuente oficial."
+    }
+  ]
+}
